@@ -1,0 +1,8 @@
+Id,name,gender,DOB,marital_status,husband_name,phone_number,no_of_members
+,,,,,,,
+1,Hemanth,M,02-10-2002,Single,,784956485,4
+2,Aditya,M,10-03-2002,Single,,756189547,4
+3,Reshma,F,02-04-2002,Married,,745854554,2
+4,Mithunesh,M,07-04-2003,Single,,647544857,4
+5,Devika,F,10-04-2002,Married,,946557455,2
+6,Kishore,M,07-07-2002,Single,,648425645,3
